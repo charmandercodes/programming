@@ -73,9 +73,3 @@ print(v3)
 v3 = v1 + v2
 
 print(v3)
-
-
-
-
-        
-
