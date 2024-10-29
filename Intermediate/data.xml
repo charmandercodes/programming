@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<library>
+    <book>
+        <title>Learning Python</title>
+        <author>Mark Lutz</author>
+        <year>2013</year>
+    </book>
+    <book>
+        <title>Fluent Python</title>
+        <author>Luciano Ramalho</author>
+        <year>2015</year>
+    </book>
+</library>
