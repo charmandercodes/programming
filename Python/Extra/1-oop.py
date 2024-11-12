@@ -103,7 +103,7 @@ del person1
 
 # CLASS VARIABLES 
 
-class Person: 
+class Person:  
     amount = 0
     def __init__(self, name, age, height):
         self.name = name
